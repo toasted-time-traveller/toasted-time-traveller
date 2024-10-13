@@ -6,16 +6,20 @@
 - The dynamic world of **cryptocurrencies**, where I am fascinated by the underlying **cryptography** and mathematics, exploring how these elements contribute to security, transaction integrity, and the decentralized nature of blockchain technology.
 - **Developing exploits** and investigating **zero-day vulnerabilities**, constantly seeking out new security flaws to understand their implications and mitigate associated risks.
 - Actively participating in **bug bounty programs**, dveloping my skills by identifying and reporting vulnerabilities in various applications and systems.
+- **Operating systems** and how they function, studying the different levels of privilege (rings) within operating system architecture. I am especially interested in operating system security, from kernel-level to user-space security, and how these areas interact to create secure computing environments.
+- There is too much to write and I could write forever, each of these subjects are never ending rabbit holes.
 
 ## 🌱 I’m currently expanding my skill set in:
 - **Go programming**, driven by its efficiency and concurrency capabilities, aiming to leverage it in the development of security tools and scripts.
+- Exploring **operating system** security models, for a brief example, the implementation of security features in Ring 0 (kernel mode) versus Ring 3 (user mode) and how privilege escalation vulnerabilities can compromise system integrity and various persistence techniques to retain access but keeping silent.
+- **Virtualization** technologies, including Docker/Podman for containerization, Xen Hypervisor for managing virtual machines, LXC/LXD for lightweight container management, and Proxmox for virtualization and enterprise-level infrastructure solutions.
 - Engaging in hands-on projects such as:
   - **Network penetration testing** and vulnerability assessments.
   - **Developing exploits for vulnerabilities** for various platforms/applications.
   - Crafting **automated malware analysis frameworks** to streamline threat intelligence gathering (I am currently building a C2).
 
 ## 💞️ I’m seeking collaboration opportunities on:
-- Advanced **cybersecurity projects**, particularly in the realms of **network/application security** and **vulnerability analysis**, addressing the vulnerabilities that plague connected devices, networks and the internet as a whole.
+- Advanced **cybersecurity projects**, particularly in the realms of **network/application security** and **vulnerability analysis**, and operating system security, focusing on privilege escalation, kernel exploitation, persistence and securing system architecture.
 - Building tools that leverage vulnerabilities for legitimate security research, exploring techniques that APT groups utilise without compromising ethics.
 - Engaging in open-source initiatives to enhance security toolsets, contribute to community knowledge, and foster collaborative learning.
 
@@ -25,8 +29,9 @@ I have an interst with networking protocols and tools, including but not limited
 - **BGP (Border Gateway Protocol)**: The protocol used to exchange routing information between different networks on the internet. Vulnerabilities can lead to route hijacking, traffic interception/redirection, and DDoS attacks.
 - **SIP (Session Initiation Protocol)**: Widely used for managing voice and video calls over IP networks. Security issues include SIP hijacking, denial-of-service attacks, and call interception.
 - **Modbus**: A protocol used in industrial control systems (ICS) for communication between devices. Security issues include unauthorized access, replay attacks, and lack of encryption leading to exposure of sensitive data.
+- **Operating System Security**: I am fascinated by how modern operating systems implement security features like Address Space Layout Randomization (ASLR), Data Execution Prevention (DEP), and Mandatory Access Control (MAC) mechanisms such as SELinux and AppArmor in Linux, or Capsicum in BSD. These measures are crucial for mitigating exploits like buffer overflows and preventing unauthorized access to sensitive areas of the system.
 
-My journey into the realms of cybersecurity, firmware exploration, and IoT is fueled by a relentless curiosity and a passion for safeguarding digital landscapes against emerging threats. I strive to contribute to the cybersecurity community and enhance my expertise in tackling complex security challenges.
+My journey into cybersecurity, and computing as a whole is fueled by a relentless curiosity and a passion for solving problems, learning and safeguarding digital landscapes against emerging, well-funded, highly skilled threats such as APT's. I strive to contribute to the cybersecurity community and enhance my expertise in tackling complex security challenges. This is something I thoroughly enjoy, it is a never ending learning cycle. Each sub-subject within computing has almost infinitely more sub-subjects within each sub-subject.
 
 <!---
 toasted-time-traveller/toasted-time-traveller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
