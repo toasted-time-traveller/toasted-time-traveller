@@ -7,7 +7,8 @@
 - **Developing exploits** and investigating **zero-day vulnerabilities**, constantly seeking out new security flaws to understand their implications and mitigate associated risks.
 - Actively participating in **bug bounty programs**, dveloping my skills by identifying and reporting vulnerabilities in various applications and systems.
 - **Operating systems** and how they function, studying the different levels of privilege (rings) within operating system architecture. I am especially interested in operating system security, from kernel-level to user-space security, and how these areas interact to create secure computing environments.
-- There is too much to write and I could write forever, each of these subjects are never ending rabbit holes.
+- **Programming** has always been a source of great enjoyment for me, I find immense joy in creating and solving problems through code. My primary skill and love lies in Python, a versatile language that allows me to bring my ideas to life with logic and efficiency. I also code fairly well in PHP but it's like Voldermort, we do not speak its name! In addition to Python, I enjoy working with C, appreciating its power and amazing efficiency, especially in systems programming. I am currently diving into Go, I have put it off for such a long time I find its simplicity and concurrency features are unrivalled, I feel Go is the language to **Go** to (no pun intended) when building scalable applications.
+- There is so much I could write and I feel I could write forever, each of these subjects are never ending rabbit holes.
 
 ## 🌱 I’m currently expanding my skill set in:
 - **Go programming**, driven by its efficiency and concurrency capabilities, aiming to leverage it in the development of security tools and scripts.
