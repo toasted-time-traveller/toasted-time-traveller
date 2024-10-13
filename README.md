@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @toasted-time-traveller
 
 ## 👀 I’m deeply immersed in:
-- **Cybersecurity** with a focus on **network and application security**, where I explore vulnerabilities and exploit methodologies to strengthen defenses against potential threats.
+- **Cybersecurity** with a focus on **network and application security**, where I explore vulnerabilities and exploit methodologies. Cyber security is a field that captivates me deeply, combining technical challenges with the ever-evolving landscape of threats (and defenses). I focus on network and application security, constantly studying malware and reverse engineering techniques to understand vulnerabilities and how to protect against them. I am particularly fascinated by the intricacies of developing exploits and investigating zero-day vulnerabilities. Participating in bug bounty programs has allowed me to sharpen my skills while contributing to the security of applications and systems. I thrive on the challenge of identifying weaknesses and finding innovative solutions to enhance security measures.
 - Engaging in **malware analysis and reverse engineering**, reversing malicious software to understand its mechanics and develop countermeasures, employing tools like Ghidra and IDA Pro etc.
 - The dynamic world of **cryptocurrencies**, where I am fascinated by the underlying **cryptography** and mathematics, exploring how these elements contribute to security, transaction integrity, and the decentralized nature of blockchain technology.
 - **Developing exploits** and investigating **zero-day vulnerabilities**, constantly seeking out new security flaws to understand their implications and mitigate associated risks.
