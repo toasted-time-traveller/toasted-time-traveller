@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @toasted-time-traveller
 
-## 👀 I’m deeply immersed in:
+## 👀 I’m deeply interested in:
 - **Cybersecurity** with a focus on **network and application security**, where I explore vulnerabilities and exploit methodologies. Cyber security is a field that captivates me deeply, combining technical challenges with the ever-evolving landscape of threats (and defenses). I am particularly fascinated by the intricacies of developing exploits and investigating zero-day vulnerabilities.
 - Engaging in **malware analysis and reverse engineering**, reversing malicious software to understand its mechanics and develop countermeasures, employing tools like Ghidra and IDA Pro etc.
 - The dynamic world of **cryptocurrencies**, where I am fascinated by the underlying **cryptography** and mathematics, exploring how these elements contribute to security, transaction integrity, and the decentralized nature of blockchain technology.
