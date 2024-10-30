@@ -106,7 +106,7 @@ I have an interst with networking protocols and tools, including but not limited
 Some awesome repos that people and organizations have made:
 - **[Sindresorhus - Awesome](https://github.com/sindresorhus/awesome)** <-- Awesome lists about all kinds of interesting topics, mostly tech related.
 - **[Edoardottt - Awesome-Hacker-Search-Engines](https://github.com/edoardottt/awesome-hacker-search-engines)** <-- A collection of security related search engines.
-- **[Hack-with-Github - Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** <-- An amazing, HUGE, recursive rabbit hole of security related repos.
+- **[Hack-with-Github - Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** <-- A HUGE recursive rabbit hole of security related repos.
 - **[Swisskyrepo - Payload-All-The-Things](https://github.com/swisskyrepo/PayloadsAllTheThings)** <-- A massive list of payloads and bypass for WAS and Pentest/CTF.
 - **[Trimstray - Book-Of-Secret-Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)** <-- A huge collection of lists, manuals, cheatsheets, blogs, hacks, tools and more. 
 
