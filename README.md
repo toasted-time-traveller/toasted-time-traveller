@@ -10,6 +10,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+<p align="center">
+  <img  src="https://github.com/toasted-time-traveller/toasted-time-traveller/blob/main/resources/img/grid-snake.svg"
+    alt="example" />
+</p>
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -227,6 +231,11 @@ Some awesome repos that people and organizations have made:
     communities out there now in the legal pentesting/hacking scene where up and coming coders/pentesters can challeneg themselves. 
     The only reason people are hacking illegally now is, well, because they're a bunch of dicks looking for chaos and/or 
     financial gain and not for the art of the pwn.
+
+<p align="center">
+  <img  src="https://github.com/toasted-time-traveller/toasted-time-traveller/blob/main/resources/img/grid-snake.svg"
+    alt="example" />
+</p>
 
 <h1 align="center">My Portfolio: https://toasted-time-traveller.github.io</h1>
 
