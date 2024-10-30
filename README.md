@@ -1,5 +1,23 @@
 # 👋 Hi, I’m @toasted-time-traveller
 
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+
 ## 👀 I’m deeply interested in:
 - **Cybersecurity** with a focus on **network and application security**, where I explore vulnerabilities and exploit methodologies. Cyber security is a field that captivates me deeply, combining technical challenges with the ever-evolving landscape of threats (and defenses). I am particularly fascinated by the intricacies of developing exploits and investigating zero-day vulnerabilities.
 - Engaging in **malware analysis and reverse engineering**, reversing malicious software to understand its mechanics and develop countermeasures, employing tools like Ghidra and IDA Pro etc.
@@ -31,6 +49,7 @@ I have an interst with networking protocols and tools, including but not limited
 - **SIP (Session Initiation Protocol)**: Widely used for managing voice and video calls over IP networks. Security issues include SIP hijacking, denial-of-service attacks, and call interception.
 - **Modbus**: A protocol used in industrial control systems (ICS) for communication between devices. Security issues include unauthorized access, replay attacks, and lack of encryption leading to exposure of sensitive data.
 - **Operating System Security**: I am fascinated by how modern operating systems implement security features like Address Space Layout Randomization (ASLR), Data Execution Prevention (DEP), and Mandatory Access Control (MAC) mechanisms such as SELinux and AppArmor in Linux, or Capsicum in BSD. These measures are crucial for mitigating exploits like buffer overflows and preventing unauthorized access to sensitive areas of the system.
+```
 
 My interest in cybersecurity, and computing as a whole is driven by curiosity and enjoyment for solving problems, learning and doing my small bit to defend my home (the internet) against well-funded, highly skilled threats such as APT's. I strive to contribute to the cybersecurity community and enhance my expertise in tackling complex security challenges. This is something I thoroughly enjoy, it is a never ending learning cycle. Each sub-subject within computing has almost infinitely more sub-subjects within each sub-subject.
 
